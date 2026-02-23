@@ -5,8 +5,8 @@
   "permissions": {
     "allow": [
       "Read(*)",
-      "Edit(/home/vlad/Documents/craftie/*)",
-      "Write(/home/vlad/Documents/craftie/*)",
+      "Edit(/home/vlad/Documents/{project-name}/*)",
+      "Write(/home/vlad/Documents/{project-name}/*)",
       "Glob(*)",
       "Grep(*)",
       "Bash(go build *)",
